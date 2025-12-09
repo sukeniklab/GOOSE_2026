@@ -10,7 +10,7 @@ These values were averaged across all 5 repeats and tested for statistical signi
 
     Feature columns are as follows: 
         nardini_{feature}: this is output from NARDINI+ from https://github.com/kierstenruff/RUFF_KING_Grammars_of_IDRs_using_NARDINI-
-        note: Z score is normalized to the S. Cerevisiae IDR-ome. 
+            note: Z score is normalized to the S. Cerevisiae IDR-ome. 
         cider_{feature}: this is output from CIDER found here: https://pappulab.github.io/localCIDER/
         Sparrow_{feature}: this is output from Sparrow found here: https://github.com/idptools/sparrow
 
