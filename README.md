@@ -2,15 +2,10 @@
 
 ## by Ryan J. Emenecker, Karina Guadalupe, Nora M. Shamoon, Shahar Sukenik, Alex S. Holehouse.  
 
-Additional supporting material can be found at https://github.com/holehouse-lab/supportingdata/tree/master/2023/emenecker_guadalupe_2023 
+** NOTE: This repo is being acticely updated for a new version **
 
-To generate the figures, clone the repository and run the scripts from within the directory on your computer.  
-Scripts to generate data were tested on python 3.9.12. Libraries used in the scripts are pandas, numpy, matplotlib, and scipy.stats.  
+Directory structure:
 
-Directory files are as follows:  
-
-"GOOSE_master_dataframe.csv" - live cell data collected for whole cell measurements  
-
-"summary_GOOSE.csv" - local cider parameters, medians and standard deviations of all sequence measurements  
-
-"Main_text_live_cell_figures.py" - python script used to generate all of the figures presented in the main text  
+* FRET_data - data for original preprint ([https://www.biorxiv.org/content/10.1101/2023.10.29.564547v2])
+* FRET_data_TB - Dataset retaken at SU, including new analyses - Figs. 2+3
+* Sequencing - Dataset and analysis for desiccation protectant variants - Fig. 5
