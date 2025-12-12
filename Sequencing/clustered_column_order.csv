@@ -1,0 +1,108 @@
+column_order
+nardini_A Patch_raw
+nardini_Disorder Promoting_raw
+nardini_Frac Aliphatic_raw
+nardini_Frac Aliphatic_zscore
+nardini_Frac A_raw
+nardini_Frac A_zscore
+nardini_Hydrophobicity_raw
+nardini_Frac S_raw
+nardini_Frac S_zscore
+nardini_N Patch_raw
+nardini_R Patch_raw
+nardini_Frac Y_raw
+nardini_D Patch_raw
+nardini_Q Patch_raw
+nardini_Frac M_raw
+nardini_Frac L_raw
+nardini_Frac M_zscore
+nardini_Frac I_raw
+sparrow_complexity
+nardini_Frac T_zscore
+nardini_Frac Polar_raw
+nardini_Frac T_raw
+nardini_Frac F_raw
+nardini_Frac Aromatic_raw
+nardini_Frac Aromatic_zscore
+nardini_Frac H_raw
+nardini_Frac Q_raw
+nardini_Frac R_raw
+nardini_R/K Ratio_raw
+nardini_R/K Ratio_zscore
+avg_beta_prob
+nardini_Frac W_raw
+nardini_T Patch_raw
+nardini_G Patch_raw
+nardini_P Patch_raw
+cider_mean_net_charge
+nardini_Frac N_raw
+avg_helix_prob
+nardini_Frac L_zscore
+nardini_Frac K+R_zscore
+nardini_Iso point_raw
+nardini_Iso point_zscore
+nardini_NCPR_raw
+nardini_NCPR_zscore
+cider_fraction_neutral
+cider_omega
+nardini_K Patch_raw
+sparrow_SHD
+nardini_Frac C_zscore
+nardini_Hydrophobicity_zscore
+nardini_S Patch_raw
+nardini_Frac P_zscore
+nardini_PPII_raw
+nardini_Frac Chain Expanding_zscore
+nardini_PPII_zscore
+nardini_Frac G_raw
+nardini_Frac G_zscore
+nardini_Frac Chain Expanding_raw
+nardini_FCR_raw
+nardini_Frac D+E_raw
+avg_coil_prob
+nardini_Disorder Promoting_zscore
+nardini_Frac K_raw
+nardini_Frac K_zscore
+nardini_A Patch_zscore
+nardini_FCR_zscore
+sparrow_asphericity
+sparrow_scaling_exponent
+nardini_Frac V_raw
+nardini_Frac V_zscore
+sparrow_scaled_re
+sparrow_scaled_rg
+nardini_Frac C_raw
+nardini_Frac W_zscore
+sparrow_SCD
+nardini_Frac K+R_raw
+nardini_Frac Polar_zscore
+nardini_Frac F_zscore
+nardini_Frac Y_zscore
+nardini_V Patch_zscore
+avg_mito_targeting
+nardini_Frac Q_zscore
+nardini_E Patch_raw
+nardini_Frac H_zscore
+nardini_Frac D_raw
+nardini_Frac D_zscore
+nardini_Frac D+E_zscore
+nardini_Frac E_raw
+nardini_Frac E_zscore
+nardini_T Patch_zscore
+nardini_E/D Ratio_raw
+nardini_E/D Ratio_zscore
+nardini_Frac N_zscore
+nardini_L Patch_raw
+nardini_I Patch_raw
+avg_nes
+nardini_E Patch_zscore
+nardini_K Patch_zscore
+nardini_S Patch_zscore
+nardini_V Patch_raw
+nardini_Frac I_zscore
+nardini_Frac R_zscore
+avg_nis
+cider_delta
+cider_kappa
+nardini_Frac P_raw
+sparrow_prefactor
