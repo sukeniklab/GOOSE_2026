@@ -1,8 +1,8 @@
-# Live cell data and scripts associated with "Sequence-ensemble-function relationships for disordered proteins in live cells"
+# Live cell data and scripts associated with "Rational design of disordered proteins for systematic sequence-to-function investigation"
 
-## by Ryan J. Emenecker, Karina Guadalupe, Nora M. Shamoon, Shahar Sukenik, Alex S. Holehouse.  
+## by Kara Hunter, Trevor Brandt, Karina Guadalupe, Kavindu Kolamunna, Jeff M. Lotthammer, Nora M. Shamoon, Brooke Nicholson, Lea Day, Alec Martinez, Alex S. Holehouse, Shahar Sukenik, Ryan J. Emenecker.  
 
-** NOTE: This repo is being acticely updated for a new version **
+** NOTE: This repo is being actively updated for a new version **
 
 Directory structure:
 
