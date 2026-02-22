@@ -1,16 +1,13 @@
-# Live cell data and scripts associated with "Sequence-ensemble-function relationships for disordered proteins in live cells"
-
-## by Ryan J. Emenecker, Karina Guadalupe, Nora M. Shamoon, Shahar Sukenik, Alex S. Holehouse.  
-
-Additional supporting material can be found at https://github.com/holehouse-lab/supportingdata/tree/master/2023/emenecker_guadalupe_2023 
-
-To generate the figures, clone the repository and run the scripts from within the directory on your computer.  
-Scripts to generate data were tested on python 3.9.12. Libraries used in the scripts are pandas, numpy, matplotlib, and scipy.stats.  
-
-Directory files are as follows:  
-
-"GOOSE_master_dataframe.csv" - live cell data collected for whole cell measurements  
-
-"summary_GOOSE.csv" - local cider parameters, medians and standard deviations of all sequence measurements  
-
-"Main_text_live_cell_figures.py" - python script used to generate all of the figures presented in the main text  
+# Trevor's in-cell FRET data
+* ```cells_concat_raw_(1,2).csv``` - raw in-cell datasets concatenated from experimental data from image analysis pipeline ran on microscope images
+* ```cells_concat_filtered.csv``` - filtered in-cell dataset produced by dfMake.ipynb
+* ```constructs_df.csv``` - aggregated statistics data per-construct produced from cells_concat_filtered data, also in dfMaker.ipynb
+* ```invitro.csv``` - data from constructs in-vitro. Folded into constructs_df.csv in dfMaker.ipynb
+* ```sequences.csv``` - IDR sequences for GOOSE constructs used for this - figures 2 and 3, in-cell and in-vitro FRET
+* ```controls.csv``` - aggregated data from control wells of all experimental plates (7) used for this. Contains MTQ and MNG uncoupled fluorophores, and is used to produce Figsi_ArtifactCorrections.ipynb and FIGsi_PerturbCorrections.ipynb
+* ```epsilons.csv``` - calculated epsilons for constructs produced by Finches-sparrow-epsilon.ipynb, folded into constructs_df.csv in dfMaker.ipynb
+* ```dfMaker.ipynb``` - filters raw cell dataset to produce figuremaking data
+* ```ViolinPlots.ipynb``` - function to create comparative violin plots
+* ```FigXX_####.ipynb``` - Figure Panel making scripts - Points to overall figure
+* ```Figure_graphs``` - Folder which contains figure plot SVGs
+* ```ImageAnalysisScript``` - Folder which contains image analysis script used on raw images to produce cell data concatenated into cells_concat_raw_(1,2).csv

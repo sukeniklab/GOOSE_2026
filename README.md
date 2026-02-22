@@ -2,10 +2,10 @@
 
 ## by Kara Hunter, Trevor Brandt, Karina Guadalupe, Kavindu Kolamunna, Jeff M. Lotthammer, Nora M. Shamoon, Brooke Nicholson, Lea Day, Alec Martinez, Alex S. Holehouse, Shahar Sukenik, Ryan J. Emenecker.  
 
-** NOTE: This repo is being actively updated for a new version **
 
 Directory structure:
 
-* FRET_data - data for original preprint ([https://www.biorxiv.org/content/10.1101/2023.10.29.564547v2])
-* FRET_data_TB - Dataset retaken at SU, including new analyses - Figs. 2+3
+* Figures - finalized figures
+* FRET_data - data for in-cell and in-vitro FRET analyses. Contains scripts used to make Figs 2, 3, SI figure panels. 
+* FRET_data_TB - data for original preprint ([https://www.biorxiv.org/content/10.1101/2023.10.29.564547v2])
 * Sequencing - Dataset and analysis for desiccation protectant variants - Fig. 5
