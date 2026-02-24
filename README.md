@@ -5,7 +5,7 @@
 
 Directory structure:
 
-* Figures - finalized figures
-* FRET_data - data for in-cell and in-vitro FRET analyses. Contains scripts used to make Figs 2, 3, SI figure panels. 
-* FRET_data_TB - data for original preprint ([https://www.biorxiv.org/content/10.1101/2023.10.29.564547v2])
-* Sequencing - Dataset and analysis for desiccation protectant variants - Fig. 5
+* figures_main_text - Organized scripts used to create main text figure panels.
+* figures_si - Organized scripts used to create SI figure panels.
+* Data - Contains data, and scripts, used for figures. Figures_2-3-4 has FRET and nuclear localization data, Figures_5 has sequencing data.
+* legacy - data for original preprint ([https://www.biorxiv.org/content/10.1101/2023.10.29.564547v2])
