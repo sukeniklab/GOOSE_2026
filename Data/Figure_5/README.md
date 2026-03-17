@@ -15,5 +15,5 @@ These values were averaged across all 3 repeats and tested for statistical signi
         Sparrow_{feature}: this is output from Sparrow found here: https://github.com/idptools/sparrow
 
 * ```heatmap_r_mean_clustered.csv``` - csv used to generate the spearman r heatmaps for figures 5N and S16. The template name corresponds to base_origin. Features from sequencing_data_all and their spearman r values are reported. 
-* ```null_permutation_averaged_results.csv`` - csv used to generate spearman r analysis post shuffling log2FoldChange and padj 100 times, taking the average spearman r per template (base_origin) and feature. Columns include base_origin, feature, r_mean, r_std, is_significant, and n_permutations. 
+* ```null_permutation_averaged_results.csv``` - csv used to generate spearman r analysis post shuffling log2FoldChange and padj 100 times, taking the average spearman r per template (base_origin) and feature. Columns include base_origin, feature, r_mean, r_std, is_significant, and n_permutations. 
 * ```pioreactor_output.csv``` - csv used to generate Fig_S13. This includes experiment, pioreactor_unit, timestamp, od_reading, angle, channel,timestamp_localtime, and hours_since_experiment_created.
