@@ -5,7 +5,8 @@ Scripts to generate data were tested on python 3.13.9. Libraries used in the scr
 
 Directory files are as follows:  
 
-* ```sequencing_data_all.csv```  - combined sequencing output of 5 different independent repeats. The labels are as follows: log2FoldChange_{replicate}, padj_{replicate} (adjusted p value), lfcSE_{replicate} (logfoldchange standard error), base_origin (helps uniquely identify which original template sequence the variant is tied to)
+* ```sequencing_data_all.csv```  - combined sequencing output of 3 different independent repeats. The labels are as follows: log2FoldChange_{replicate}, padj_{replicate} (adjusted p value), lfcSE_{replicate} (logfoldchange standard error), base_origin (helps uniquely identify which original template sequence the variant is tied to). Lastly, the 'type info' column labels what sequence features were changed from the template.
+
 These values were averaged across all 3 repeats and tested for statistical significance. 
 
     Feature columns are as follows: 
